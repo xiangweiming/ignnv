@@ -1,0 +1,1 @@
+outputSetSingle(ffnn,inputInterval)
