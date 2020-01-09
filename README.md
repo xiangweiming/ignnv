@@ -51,6 +51,10 @@ model with two joints.</figcaption>
   4) This tool can compute the reachable set of learning-enabled control systems. 
 
 <figure>
+    <img src="/images/pic_13.png" width="400"> <figcaption>Adaptive cruise control system.</figcaption>
+</figure>
+
+<figure>
     <img src="/images/pic_8.png" width="400"> <figcaption>Reachable set computation adaptive cruise control system.</figcaption>
 </figure>
 
