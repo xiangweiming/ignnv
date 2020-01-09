@@ -15,6 +15,5 @@ The model-based reachability analysis for plants is based on The COntinuous Reac
   
   4) This tool can compute the reachable set of learning-enabled control systems. 
   
-<<<<<<< HEAD
 # Publications
 =======
