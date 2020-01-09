@@ -30,44 +30,44 @@ The model-based reachability analysis for plants is based on The COntinuous Reac
   3) This tool use simulation-guided method to significantly enhance the scalability in reachable set computation.
 
 <figure>
-    <img src="/images/pic_10.png" width="400"> <figcaption>Learning forward kinematics of a robotic arm
+    <img src="/images/pic_10.png" width="150"> <figcaption>Learning forward kinematics of a robotic arm
 model with two joints.</figcaption>
 </figure>
  
 
 <figure>
-    <img src="/images/pic_4.png" width="400"> <figcaption>Uniform partition method generates 16384 intervals./figcaption>
+    <img src="/images/pic_4.png" width="400"> <figcaption>Uniform partition method generates 16384 intervals.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/pic_6.png" width="400"> <figcaption>Simulation-guided partition method generates only 397 intervals./figcaption>
+    <img src="/images/pic_6.png" width="400"> <figcaption>Simulation-guided partition method generates only 397 intervals.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/pic_7.png" width="400"> <figcaption>Simulation-guided partition of input space./figcaption>
+    <img src="/images/pic_7.png" width="400"> <figcaption>Simulation-guided partition of input space.</figcaption>
 </figure>
   
   
   4) This tool can compute the reachable set of learning-enabled control systems. 
 
 <figure>
-    <img src="/images/pic_13.png" width="400"> <figcaption>Adaptive cruise control system./figcaption>
+    <img src="/images/pic_13.png" width="400"> <figcaption>Adaptive cruise control system.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/pic_8.png" width="400"> <figcaption>Reachable set computation adaptive cruise control system./figcaption>
+    <img src="/images/pic_8.png" width="400"> <figcaption>Reachable set computation adaptive cruise control system.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/pic_9.png" width="400"> <figcaption>Reachablilty-based safety verification for adaptive cruise control system./figcaption>
+    <img src="/images/pic_9.png" width="400"> <figcaption>Reachablilty-based safety verification for adaptive cruise control system.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/pic_14.png" width="400"> <figcaption>Magnetic levitation (Maglev) model./figcaption>
+    <img src="/images/pic_14.png" width="400"> <figcaption>Magnetic levitation (Maglev) model.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/pic_11.png" width="400"> <figcaption>Reachablilty-based safety verification for Maglev model./figcaption>
+    <img src="/images/pic_11.png" width="400"> <figcaption>Reachablilty-based safety verification for Maglev model.</figcaption>
 </figure>
   
 # Publications
