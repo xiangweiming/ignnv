@@ -30,7 +30,7 @@ The model-based reachability analysis for plants is based on The COntinuous Reac
   3) This tool use simulation-guided method to significantly enhance the scalability in reachable set computation.
 
 <figure>
-    <img src="/images/pic_10.png" width="150"> <figcaption>Learning forward kinematics of a robotic arm
+    <img src="/images/pic_10.png" width="200"> <figcaption>Learning forward kinematics of a robotic arm
 model with two joints.</figcaption>
 </figure>
  
@@ -49,10 +49,6 @@ model with two joints.</figcaption>
   
   
   4) This tool can compute the reachable set of learning-enabled control systems. 
-
-<figure>
-    <img src="/images/pic_13.png" width="400"> <figcaption>Adaptive cruise control system.</figcaption>
-</figure>
 
 <figure>
     <img src="/images/pic_8.png" width="400"> <figcaption>Reachable set computation adaptive cruise control system.</figcaption>
