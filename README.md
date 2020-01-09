@@ -7,7 +7,7 @@ The model-based reachability analysis for plants is based on The COntinuous Reac
   2) Clone or download IGNNV from (https://github.com/xiangweiming/ignnv).
   3) Run examples.
 # Features
-  1) This tool use specification-guided method to significantly enhance the scalability in safety verification. 
+  ## 1) This tool use specification-guided method to significantly enhance the scalability in safety verification. 
 
 <figure>
     <img src="/images/pic_1.png" width="400"> <figcaption>Specification-guided partition for input space.</figcaption>
