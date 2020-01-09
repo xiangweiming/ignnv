@@ -10,7 +10,7 @@ The model-based reachability analysis for plants is based on The COntinuous Reac
   1) This tool use specification-guided method to significantly enhance the scalability in safety verification. 
 
 <figure>
-    <img src="/images/pic_1.png"> <figcaption>Specification-guided partition for input space.</figcaption>
+    <img src="/images/pic_1.png" width="300"> <figcaption>Specification-guided partition for input space.</figcaption>
 </figure>
 
 <figure>
@@ -33,12 +33,7 @@ The model-based reachability analysis for plants is based on The COntinuous Reac
     <img src="/images/pic_10.png"> <figcaption>Learning forward kinematics of a robotic arm
 model with two joints.</figcaption>
 </figure>
-
-<figure>
-    <img src="/images/pic_10.png"> <figcaption>Learning forward kinematics of a robotic arm
-model with two joints.</figcaption>
-</figure>
-  
+ 
 
 <figure>
     <img src="/images/pic_4.png"> <figcaption>Uniform partition method generates 16384 intervals./figcaption>
