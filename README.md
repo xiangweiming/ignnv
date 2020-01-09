@@ -18,5 +18,3 @@ The model-based reachability analysis for plants is based on The COntinuous Reac
 <<<<<<< HEAD
 # Publications
 =======
-  # Publications
->>>>>>> ffa011418194f87ff47d75efe0bbee53c1efb6f1
