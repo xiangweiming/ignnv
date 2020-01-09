@@ -32,7 +32,7 @@ numInside = 0;
 while numM > 0
     tempM = M{1}; %select the first set in M
     M(1) = []; %remove the selected set
-    intersectValue = intervalCompute.isIntersecting(tempM.output,targetIntvl);
+    intersectValue = intervalCompute.isIntersectInterval(tempM.output,targetIntvl);
     if intersectValue == 0
         numOutside = numOutside+1;
         outputIntvl_array.outside{numOutside} = tempM.output;

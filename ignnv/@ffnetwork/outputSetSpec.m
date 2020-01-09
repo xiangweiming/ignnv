@@ -31,7 +31,7 @@ numInside = 0;
 while numM > 0
     tempM = M{1}; %select the first set in M
     M(1) = []; %remove the selected set
-    intersectValue = intervalCompute.isIntersecting(tempM.output,unsafeIntvl);
+    intersectValue = intervalCompute.isIntersectInterval(tempM.output,unsafeIntvl);
     if intersectValue == 0 %if the selected set is safe, record it
         numOutside = numOutside+1;
         outputIntvl_array.outside{numOutside} = tempM.output;
